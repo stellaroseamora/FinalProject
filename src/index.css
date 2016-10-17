@@ -2,4 +2,31 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  height: 50px;
+  background-image: url(image5.jpg);
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+  background-size: cover;
+  opacity: 0.8;
+}
+.todoAppHeader{
+
+font-size: 490%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: lightseagreen;
+font-weight: normal;
+font-style: normal;
+text-align: center;
+margin-top: 0px;
+background-color: black;
+background-image: url(logo.jpg);
+height: 180px;
+background-repeat: no-repeat;
+background-size: contain;
+background-origin: initial;
+padding-top: 5px;
+word-wrap: break-word;
+opacity: 0.8;
+border-radius: 14px;
+text-shadow: 7px 7px 7px black;
 }

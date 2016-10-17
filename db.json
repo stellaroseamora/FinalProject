@@ -1,22 +1,18 @@
 {
   "surveys": [
     {
-      "name": "Diccion",
-      "color": "blue",
-      "movies": [
-        "harry potter"
+      "name": "minkhun horvejkil",
+      "gender": "Female",
+      "accom": [
+        "Luxurious"
       ],
-      "gender": "male",
+      "type": "Master's-Bed",
+      "guest": 5,
+      "date": "2016-10-17",
+      "dept": "2016-10-18",
+      "free": "NO",
+      "message": "dnslmf",
       "id": 1
-    },
-    {
-      "name": "Diccion",
-      "color": "blue",
-      "movies": [
-        "harry potter"
-      ],
-      "gender": "male",
-      "id": 4
     }
   ]
 }
